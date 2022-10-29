@@ -9,3 +9,5 @@ public class SingletonUse {
 	}
 
 }
+
+//test
